@@ -8,6 +8,8 @@
 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=333333"/>
 
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh61168&count_bg=%23111111&title_bg=%23111111&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true"/></a>
+
   /
 
   [![h61168's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=h61168&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
